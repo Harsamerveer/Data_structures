@@ -7,5 +7,5 @@
 fun = input("Let have Fun?")
 if fun == "Yes":
     print("Cool")
-print("Not Cool")
+
     
